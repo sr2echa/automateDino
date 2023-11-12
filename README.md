@@ -1,5 +1,5 @@
 > [!WARNING]
-> If you are here for the fun part, screw all these long paras and lets jump right in! [Click Here :)](./README.md#how2run)
+> If you are here for the fun part, screw all these long paras and lets jump right in! [Click Here :)](https://github.com/sr2echa/automateDino#how2run)
 
 # Preface
 IEEE Comsoc recruitment had this `Task: Develop a dino game automator`
@@ -90,12 +90,18 @@ Practically speaking, using WebAssembly here is of no practical benifit. It is a
 ##### Now to the most awaited part...
 # Result
 
+https://github.com/sr2echa/automateDino/assets/65058816/7165bdc9-f950-47e4-9c58-774689813253
+
+
 # How2run
 **STEP 1 :** Go to [`chrome://dino`](chrome//dino)              <br>
 **STEP 2 :** Open Dev Tools by clicking `Ctrl` + `Shift` + `I`  <br>
 **STEP 3 :** Navigate to the console tab in Dev Tools           <br>
 **STEP 4 :** Paste this code and press `[Enter]`                
 ```js
-fetch('https://sreecha.io/automateDino/automateDino.js').then(response => response.text()).then(script => eval(script));
+fetch('https://automatedino.sreecha.io/automateDino.js').then(response => response.text()).then(script => eval(script));
 ```
-**STEP 5 :** Enjoy Dino playing on it's own!
+**STEP 5 :** Eat 5star and watch it run!
+
+---
+<samp> ©️ [MIT License](LICENSE) </samp>
